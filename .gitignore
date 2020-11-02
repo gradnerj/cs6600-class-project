@@ -1,4 +1,4 @@
-pynb_checkpoints
+.pynb_checkpoints
 .vscode
 .DS_Store
 __pycache__
